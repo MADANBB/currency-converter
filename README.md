@@ -3,7 +3,7 @@ Currency Converter App
 A modern, responsive Currency Converter built with React + Vite, styled using Tailwind CSS, and deployed on Vercel.
 The app allows users to convert amounts between different currencies with a clean UI, country names, and accurate sorting.
 
-🔗 Live Demo: https://your-app-name.vercel.app
+🔗 Live Demo: https://currency-converter-madan.vercel.app/
 
 ✨ Features
 
